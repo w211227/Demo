@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///C:/Developer_mwu/ECNetworkDemo/WapProjTemplate1/AppPackages/WapProjTemplate1.appinstaller"
+	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="10c78fdd-2a2e-4dd9-a863-2c69342b0a8e"
+		Version="1.0.6.0"
+		Publisher="CN=mwu"
+		Uri="file:///C:/Developer_mwu/ECNetworkDemo/WapProjTemplate1/AppPackages/WapProjTemplate1_1.0.6.0_Debug_Test/WapProjTemplate1_1.0.6.0_x86_Debug.msixbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
